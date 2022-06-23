@@ -226,7 +226,7 @@ body {
 }
 
 .booking {
-  background: url("/images/booking/bg-decor.svg"), url("/images/booking/bg.jpg");
+  background: url("../images/booking/bg-decor.svg"), url("../images/booking/bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -305,7 +305,7 @@ body {
 }
 
 .features-contacts {
-  background: url("/images/features/bg-decor.svg");
+  background: url("../images/features/bg-decor.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -464,7 +464,7 @@ body {
 }
 
 .footer {
-  background: url("/images/footer-bg.svg");
+  background: url("../images/footer-bg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
